@@ -1,8 +1,56 @@
-# React + Vite
+# 🚀 My Portfolio  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal **portfolio website** built with **React, Vite, and Tailwind CSS**.  
 
-Currently, two official plugins are available:
+## 🛠 Technologies Used  
+- ⚛️ **React.js** – For building the UI  
+- ⚡ **Vite** – Fast and efficient build tool  
+- 🎨 **Tailwind CSS** – For styling  
+- 🌍 **GitHub Pages / Vercel** – For deployment (Optional)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📦 Installation  
+
+1️⃣ **Clone the repository**  
+```sh
+git clone https://github.com/pranama13/Portfolio.git
+cd Portfolio
+2️⃣ Install dependencies
+
+sh
+Copy
+Edit
+npm install
+3️⃣ Run the project locally
+
+sh
+Copy
+Edit
+npm run dev
+Your portfolio should be running on http://localhost:5173/ (or another available port).
+
+🚀 Deployment
+To deploy your portfolio:
+
+Build the project
+sh
+Copy
+Edit
+npm run build
+Deploy to GitHub Pages (Optional)
+Use gh-pages package or deploy via Vercel/Netlify.
+📷 Preview
+
+
+📌 Features
+✅ Fully Responsive
+✅ Fast & Optimized with Vite
+✅ Modern UI with Tailwind CSS
+✅ Easily Customizable
+
+📝 To-Do
+ Add animations with Framer Motion
+ Improve SEO with meta tags
+ Add dark mode
+📜 License
+This project is MIT licensed – feel free to use and modify.
+
