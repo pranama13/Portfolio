@@ -11,20 +11,11 @@ This is my personal **portfolio website** built with **React, Vite, and Tailwind
 ## 📦 Installation  
 
 1️⃣ **Clone the repository**  
-```sh
 git clone https://github.com/pranama13/Portfolio.git
 cd Portfolio
 2️⃣ Install dependencies
-
-sh
-Copy
-Edit
 npm install
 3️⃣ Run the project locally
-
-sh
-Copy
-Edit
 npm run dev
 Your portfolio should be running on http://localhost:5173/ (or another available port).
 
@@ -32,13 +23,9 @@ Your portfolio should be running on http://localhost:5173/ (or another available
 To deploy your portfolio:
 
 Build the project
-sh
-Copy
-Edit
 npm run build
 Deploy to GitHub Pages (Optional)
 Use gh-pages package or deploy via Vercel/Netlify.
-📷 Preview
 
 
 📌 Features
