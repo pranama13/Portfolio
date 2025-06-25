@@ -1,6 +1,11 @@
 # 🚀 My Portfolio  
 
 This is my personal **portfolio website** built with **React, Vite, and Tailwind CSS**.  
+![Screenshot 2025-06-25 114703](https://github.com/user-attachments/assets/7fc029e7-56fa-4dd4-bc68-e4ba178bd4dc)
+
+![Screenshot 2025-06-25 114724](https://github.com/user-attachments/assets/be691675-42a2-4048-bb98-5360d45bd566)
+
+
 
 ## 🛠 Technologies Used  
 - ⚛️ **React.js** – For building the UI  
